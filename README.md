@@ -1,4 +1,4 @@
-# Walmart Sales Performance Overview
+# Walmart Sales Performance Overview [Link](https://app.powerbi.com/view?r=eyJrIjoiZTUwNjE2MWYtZjhkMy00NWY3LWJhMTgtYmNmODAxOGI0NDczIiwidCI6IjRiNDY5YmYzLTdlZGYtNDU5My05Yjc3LWU0ODA3OTUzYzczMCJ9)
 This repository contains a Power BI dashboard that provides a comprehensive overview of Walmart's sales performance across different branches and product lines. The dashboard visualizes key metrics such as total sales, payment methods, product line performance, and customer demographics.
 
 ### Dashboard Overview
